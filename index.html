@@ -1,0 +1,66 @@
+<html> 
+    <head>
+    <title> kaushal</title>
+
+    <style>
+
+        *{
+            margin: 0px;
+            padding: 0px;
+        }
+        body{
+
+            margin: 0px;
+            padding: 0px;
+            background-color: brown;
+        }
+
+        h1{
+            text-align: center;
+            font-family: monospace;
+            background-color: white;
+            padding: 1em; 
+            letter-spacing: .1em;   
+          }
+
+          #ani{
+              
+            animation-name: funk;
+            animation-duration: 1s;
+            animation-iteration-count: infinite;
+            animation-timing-function: ease-out;
+          }
+
+          @keyframes funk{
+              0%{opacity: 1;}
+              60%{opacity: 1;}
+              100%{opacity: 0;}            
+          }
+
+   h1:hover {
+      background: rebeccapurple;     
+            }
+
+            @media (max-width:600px){
+
+                body{background-color:blue;}
+            }
+
+    </style>
+    </head>
+    <body>
+
+     <h1>hi i'm kaushal<span id='ani'>|</span></h1>
+     
+     <div style="display:flex; flex-direction: column;  margin: auto;">
+         <div><img src="kaushal.jpg" style="max-width: 100%;"></div>
+         <div><h1>kaushal</h1></div>
+     </div>
+
+     <script>
+         console.log(30+44+44);
+     </script>
+    
+    </body>
+    
+</html>
