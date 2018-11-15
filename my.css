@@ -1,0 +1,204 @@
+*{
+    box-sizing: border-box;
+}
+/* my google api key exuLqEyTuAIzaSyCuPqzFRH82u1wJY4EroUVpsU8 */
+.container {
+    padding-right: 0px;
+    padding-left: 0px;
+    margin-right: 0px;
+    margin-left: 0px;
+}
+
+#logo1{
+    height: 10vh;
+    width: auto;
+}
+
+
+
+
+
+
+#logo {
+    
+    width: 100vw;
+    background-color: #222222;
+    padding-top: 3vh;
+    padding-left: 8vw;
+    padding-bottom: 2vh;
+}
+
+
+
+.images{
+    max-width: 100%;
+    height: auto;
+}
+
+#section1{
+    height: 100vh;
+    width: 100vw;
+    overflow: hidden;
+    background-color: #9D507C;
+}
+.too{
+    display: inline-table;
+    width: 50vw;
+    height: 100vh;
+    
+}
+#tag0{
+    padding-left: 3vw;
+    float: right;
+}
+#tag{
+    margin-top: 18vh;
+   
+    Font-size: 80px;
+    Font-weight: 400;
+    Line-height: 105.6px;
+    color: rgb(244, 244, 244);
+}
+#tag1{
+Font-size: 24px;
+Font-weight: 400;
+Line-height: 40.08px;
+color: rgb(244, 244, 244);
+
+}
+#link{
+   
+    line-height: 14vh;
+    padding: 13px;
+    padding-left: 20px;
+    padding-right: 20px;
+    background: rgb(244, 244, 244);
+}
+
+    #section2 {
+        height: 90vh;
+        background-image: url(back.png);
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: top;
+    }
+
+#section22{
+    height: 100%;
+    text-align: center;
+    padding-top: 30vh;
+}
+#hola{
+    Font-size: 20px;
+    Font-weight: 400;
+    Line-height: 43px;
+    color: rgb(244, 244, 244);
+}
+#hola1{
+    Font-size: 56px;
+    Font-weight: 400;
+    Line-height: 75.04px;
+    color: rgb(244, 244, 244);
+    word-spacing: 8px;
+}
+#contact{
+    line-height: 12vh;
+    background-color: rgb(244, 244, 244);
+    padding: 13px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+#section3{
+    height: 53vh;
+    background: rgb(65, 152, 174);
+    padding-left: 7vw;
+    padding-right: 7vw;
+    padding-top: 5vh;
+    font-size: 21px;
+    text-align: justify;
+}
+#section4{
+    height: 110vh;
+    width: 85vw;
+    margin: 0px auto;
+    margin-top: 17vh;
+}
+.pic{
+    max-width: 100%;
+    height: auto;
+}
+h1 {
+    Font-weight: 400;
+    Line-height: 45.12px;
+    color: rgb(157, 80, 124);
+    font-size: 36px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+.lin{
+    Font-size: 16px;
+    Font-weight: 400;
+    Line-height: 26px;
+    color: rgb(24, 24, 24);
+
+}
+#section5{
+    height: 110vh;
+    width: 85vw;
+    margin: 0px auto;
+    margin-top: 17vh;
+}
+
+#section6{
+    height: 90vh;
+    
+    width: 85vw;
+    margin: 0px auto;
+    margin-top: 17vh;
+}
+#section7{
+   
+    height: auto;
+    width: 65vw;
+    margin: 0px auto;
+    margin-top: 17vh;
+}
+#seccontainer{
+    margin-top: 42vh;
+    background:  rgb(157, 80, 124);
+    width: 100vw;
+}
+input{
+    height: 9vh;
+    background: transparent;
+    font-family: inherit;
+    font-size: 28px;
+    letter-spacing: 2px;
+    line-height: inherit;
+    width: 100%;
+    padding: 2px;
+    border: hidden;
+    border-bottom: 1px solid beige;
+    color: darkgray;
+}
+
+
+textarea{
+    background: transparent;
+    height: 25vh;
+    color: beige;
+    background: transparent;
+    font-family: inherit;
+    font-size: 28px;
+    letter-spacing: 2px;
+    line-height: inherit;
+    width: 100%;
+    padding: 2px;
+    border: hidden;
+    border-bottom: 1px solid beige;
+}
+
+#subm{
+    border: hidden;
+    
+}
